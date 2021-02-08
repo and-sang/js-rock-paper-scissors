@@ -1,2 +1,2 @@
-# web-dev-playground
-Web Development - Collection of tutorials, exercises and small personal projects
+Rock Paper Scissors game
+From the freeCodeCamp tutorial on Youtube: https://youtu.be/jaVNP3nIAv0
